@@ -1,0 +1,7 @@
+1) write a c program to accept following input from user and then display it.
+    height as float 
+    rollno as integer 
+    fathername as letter 
+    pincode as integer 
+    mobileno as integer 
+    
