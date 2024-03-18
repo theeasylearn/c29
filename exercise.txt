@@ -10,3 +10,5 @@
 4) write a program to accept meter from user. convert it into kilometer & display. 
 5) write a program to accept banana into donzan. convert it into no of bananas & display.
 6) write a c program to accept minutes from user, convert it into hours & display. 
+7) write a c program to accept foot from user, convert it into meter & display. 
+
