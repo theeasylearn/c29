@@ -1,0 +1,15 @@
+what is conditional statements?
+in c program, sometimes we want to execute some line(s) of code conditionallly. a line(s) of code which execute only if some condition is evalulated as true, is called condition statements.
+to do so we have to use decision making statements.
+
+what is decision making statements?
+    decision making statements are used to check some condition. and will execute some line of code only if condition is true or false. it means if condition is true, compiler will execute few line of code and if condition is false then compiler will execute another few lines of code. 
+
+what are the different types of decision making statements?
+
+    1) simple decision making statements if 
+    2) if else decision making statements
+    3) if else if ladder decision making statements
+    4) nested if decision making statements.
+    5) switch making statements.
+
