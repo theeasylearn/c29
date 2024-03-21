@@ -12,4 +12,22 @@ what are the different types of decision making statements?
     3) if else if ladder decision making statements
     4) nested if decision making statements.
     5) switch making statements.
+how to give condition?
+    to give condition, we use relational operators 
+        < less then 
+        > greater then
+        <= less or equal to 
+        >= greater then or equal to 
+        == double equal to 
+        != not equal to 
+    we always give value or variable before & after relational operators. that will be compared and it always result into 0 (false) or 1 (true)
+
+1) simple decision making statements if 
+
+    syntax
+    if(condition)
+    {
+        statement(code)..
+    }
+    
 
