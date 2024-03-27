@@ -30,3 +30,15 @@ how to give condition?
         statement(code)..
     }
     
+2) simple decision making statement if else 
+
+    syntax
+    if(condition) 
+    {
+        .......
+    }
+    else 
+    {
+        ........
+    }
+3

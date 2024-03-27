@@ -12,3 +12,7 @@
 6) write a c program to accept minutes from user, convert it into hours & display. 
 7) write a c program to accept foot from user, convert it into meter & display. 
 
+8) write a program to accept time from user in 24 hours format. if times is <=12 display time in 12 hours format with am symbol. otherwise display time in 12 hours format with pm symbol.
+
+9) write  a program to accept temprature from user in ceilcius  format. if temprature is <=0 display message is freezing cold. otherwise display message. it is not freezing cold. 
+
