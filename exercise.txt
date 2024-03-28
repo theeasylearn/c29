@@ -16,3 +16,14 @@
 
 9) write  a program to accept temprature from user in ceilcius  format. if temprature is <=0 display message is freezing cold. otherwise display message. it is not freezing cold. 
 
+10) write a program to display name of the month
+    month = 1 then display kartak
+    month = 2 then display magshar
+    month = 3 then display posh
+    month = 12 then display aaso
+    otherwise display wrong input
+11) write a program to findout shape of object from given length  width
+    if length == width then display square 
+    if length>width then display potrait
+    otherwise display message landscape
+*/

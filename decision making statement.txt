@@ -41,4 +41,25 @@ how to give condition?
     {
         ........
     }
-3
+3) if else if ladder 
+    syntax
+    if(condition)
+    {
+         ........
+    }
+    else if(condition)
+    {
+         ........
+    }
+    else if(condition)
+    {
+         ........
+    }
+    else if(condition)
+    {
+         ........
+    }
+    else 
+    {
+        
+    }
