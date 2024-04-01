@@ -26,4 +26,18 @@
     if length == width then display square 
     if length>width then display potrait
     otherwise display message landscape
-*/
+
+12) write a program to check number is even , odd , or 0 using if elese ladder
+
+13) write a program to print number in string using switch case
+example:
+        1 - one
+        7 - seven
+
+14) write a program to print two digit number in string
+example : 
+ 
+23 - two three
+48 - four eight
+
+2 3
