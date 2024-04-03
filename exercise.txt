@@ -42,3 +42,4 @@ example :
 
 write  a program to accept 2 person birthdate. and findout who is younger. accept year month date of birthdate in separate variables.
 
+

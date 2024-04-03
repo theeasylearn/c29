@@ -23,7 +23,6 @@ how to give condition?
     we always give value or variable before & after relational operators. that will be compared and it always result into 0 (false) or 1 (true)
 
 1) simple decision making statements if 
-
     syntax
     if(condition)
     {
@@ -31,7 +30,6 @@ how to give condition?
     }
     
 2) simple decision making statement if else 
-
     syntax
     if(condition) 
     {
