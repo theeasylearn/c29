@@ -1,0 +1,19 @@
+loop (repeatation)
+--------------------------------------
+when our program has code which run multiple times, we should use loop. 
+loop execute some line of code until some condition become false 
+loop has mainly two part. 
+    condition
+    body of the loop 
+
+there are two types of loop 
+    entry control loop 
+        in this type of loop condition is checked first, if condition is true then body of loop execute. condition and body of loop execute until condition is false 
+    exit control loop 
+        in this type of loop, body of the loop execute then after condition is checked. body of loop and condition execute until condition is false.
+
+c language has 3 loops
+    1) while loop (entry control loop)
+    2) for loop  (entry control loop)
+    3) do while loop (exit control loop)
+

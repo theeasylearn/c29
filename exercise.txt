@@ -42,4 +42,8 @@ example :
 
 write  a program to accept 2 person birthdate. and findout who is younger. accept year month date of birthdate in separate variables.
 
+write a program to print om namah shivay 1008
+
+write a program to print rastra geet 5 times. 
+
 
