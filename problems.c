@@ -37,3 +37,19 @@
     write a pro to check password {int} -> using loop, without loop
         password lenght < 4 -> print("weak pwd")
         length >= 4 -> print("Strong pwd");
+
+15 april 24
+    1 1 1 1
+    1 1 1 1
+    1 1 1 1
+    1 1 1 1
+
+    1 2 3 4
+    1 2 3 4
+    1 2 3 4
+    1 2 3 4
+
+    1 1 1 1
+    2 2 2 2
+    3 3 3 3
+    4 4 4 4
