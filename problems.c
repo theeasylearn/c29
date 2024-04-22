@@ -45,3 +45,9 @@
         * *
       * * * 
     * * * *
+
+
+22 april 24 
+    create a function that prits sum of two numbers 
+    create a function that prits sum of three numbers 
+    create functions for all patterns 
