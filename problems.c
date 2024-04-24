@@ -51,3 +51,8 @@
     create a function that prits sum of two numbers 
     create a function that prits sum of three numbers 
     create functions for all patterns 
+
+24 april 24    
+    create a function which returns factorial of a number 
+    write a pro to check if num is even(2, 4, 6, ...) or odd(1, 3, 5, ...) using function
+    write a pro to print highest of three nums using function -> fun(n1, n2, n3) -> return (highest of three nums)
