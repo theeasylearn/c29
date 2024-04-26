@@ -56,3 +56,8 @@
     create a function which returns factorial of a number 
     write a pro to check if num is even(2, 4, 6, ...) or odd(1, 3, 5, ...) using function
     write a pro to print highest of three nums using function -> fun(n1, n2, n3) -> return (highest of three nums)
+
+26 april 24
+        check if a number is +ve or -ve using boolean function 
+        check if a student pass or fail -> marks > 45 => pass | marks <= 45 => fail
+    
