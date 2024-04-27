@@ -61,3 +61,7 @@
         check if a number is +ve or -ve using boolean function 
         check if a student pass or fail -> marks > 45 => pass | marks <= 45 => fail
     
+27 april 24
+       check if number containes the value of key or not -> num = 1234, key = 2 => return true
+                                                            num = 1234, key = 9 => return false
+        for -ve input ( ex: num = -1234, key = 2)
