@@ -65,3 +65,9 @@
        check if number containes the value of key or not -> num = 1234, key = 2 => return true
                                                             num = 1234, key = 9 => return false
         for -ve input ( ex: num = -1234, key = 2)
+
+
+29 april 24
+     calculate area of circle 
+     switch case 
+ 
