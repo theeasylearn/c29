@@ -46,7 +46,6 @@
       * * * 
     * * * *
 
-
 22 april 24 
     create a function that prits sum of two numbers 
     create a function that prits sum of three numbers 
@@ -66,8 +65,16 @@
                                                             num = 1234, key = 9 => return false
         for -ve input ( ex: num = -1234, key = 2)
 
-
 29 april 24
      calculate area of circle 
      switch case 
+
+30 arpil 24
+    
+adhar = 2
+ghat = -4 
+ans = (1 / 2) * (1 / 2) * (1 / 2) * (1 / 2)
+https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/negative-exponent-rules-1625814769.png
+
+create array for int, float, char; size = 10; and print all element 
  
