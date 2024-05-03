@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
 
-    int arr1[5];
+    int arr1[20];
 
     // arr1[0] = 10;
     // arr1[1] = 2;
@@ -17,12 +17,13 @@ int main() {
     // printf("%d \n", arr1[5]); // garbedge value 
     // printf("%d \n", arr1[6]); // garbedge value 
 
-    for (int i = 0; i <= 4; i++) { // accessing every element
+    int size = sizeof(arr1) / sizeof(arr1[0]);
+    for (int i = 0; i < size; i++) { // accessing every element
         // arr1[i] = i * 10;
-        printf("Enter %dth elemet : ", i);
+        printf("Enter %dth elemet : ", i + 1);
         scanf("%d", &arr1[i]);
     }
-    for (int i = 0; i <= 4; i++) {
+    for (int i = 0; i < size; i++) {
         printf("%d ", arr1[i]);
     }
     return 0;
