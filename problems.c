@@ -77,4 +77,7 @@ ans = (1 / 2) * (1 / 2) * (1 / 2) * (1 / 2)
 https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/negative-exponent-rules-1625814769.png
 
 create array for int, float, char; size = 10; and print all element 
- 
+
+4 may 24
+    prod of all elements 
+    number of +ve ele and number -ve ele 
