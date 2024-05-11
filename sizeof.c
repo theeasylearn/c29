@@ -1,31 +1,14 @@
 #include<stdio.h>
-#include<stdbool.h>
+#include<string.h>
 
-int main() {
+void main() {
 
-    int num = 1;
-    printf("size of num = %d \n", sizeof(num));
+    float num = 1.123;
+    printf("num = %d \n", sizeof(num));
 
-    char ch = '1';
-    printf("size of ch = %d \n", sizeof(ch));
+    char name[] = "hadi ";
+    printf("numof ele = %d ", sizeof(name) / sizeof(name[0]));
 
-    float myFloat = 1.3;
-    printf("size of myFloat = %d \n", sizeof(myFloat));
-
-    bool flag = false;
-    printf("size of flag = %d \n", sizeof(flag));
-
-    printf("size of main = %d \n", sizeof(main));
-
-    int arr[100];
-    printf("size of arr = %d \n", sizeof(arr));
-
-    // size = sizeof(arr) / dt ;
-    // 4 * 5 = 20
-    int size = sizeof(arr) / sizeof(arr[0]);
-    printf("number of ele in arr = %d \n", size);
-
-    printf("size of arr[0] = %d ", sizeof(arr[0]));
-
-    return 0;
+    // num of apple = num of set * num of apples in one set 
+    // 36           =    3      * 12 
 }
